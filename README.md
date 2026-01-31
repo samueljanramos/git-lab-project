@@ -6,3 +6,5 @@ This project demonstrates Git and GitHub collaboration.
 -arjohnZT
 
 -hyacinthtaguba
+
+added a branch
